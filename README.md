@@ -13,6 +13,4 @@ The implementation was done based on my current knowledge and self-learning, ens
 
 ## 🛠️ Tech Stack
 - **Backend:** Node.js, Express  
-- **Database:** MongoDB / MySQL / PostgreSQL  
-- **Other Tools:** Postman (for API testing), Git (for version control)
-
+- **Database:** MySQL / PostgreSQL  
